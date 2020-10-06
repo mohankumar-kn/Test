@@ -1,0 +1,33 @@
+1601986574879	geckodriver	INFO	geckodriver 0.21.0
+1601986574884	geckodriver	INFO	Listening on 127.0.0.1:53769
+1601986575868	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/xz/8j6wp8m52w9dz6qgyj8dwxh80000gn/T/rust_mozprofile.iWuPvIW5QstM"
+*** You are running in headless mode.
+*** You are running in headless mode.
+1601986578967	Marionette	TRACE	Marionette enabled
+1601986579045	Marionette	TRACE	Received observer notification toplevel-window-ready
+1601986580670	Marionette	TRACE	Received observer notification marionette-startup-requested
+1601986580670	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1601986580719	Marionette	TRACE	All scripts recorded.
+1601986580719	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1601986580719	Marionette	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1601986580719	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1601986580719	Marionette	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1601986580720	Marionette	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1601986580720	Marionette	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1601986580720	Marionette	DEBUG	Setting recommended pref browser.tabs.remote.separatePrivilegedContentProcess to false
+1601986580720	Marionette	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1601986580720	Marionette	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1601986580720	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1601986580721	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1601986580721	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1601986580721	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1601986580721	Marionette	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1601986580722	Marionette	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1601986580722	Marionette	DEBUG	Setting recommended pref extensions.getAddons.discovery.api_url to data:, 
+1601986580722	Marionette	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1601986580722	Marionette	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1601986580722	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1601986580722	Marionette	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1601986580722	Marionette	DEBUG	Setting recommended pref signon.autofillForms to false
+1601986580775	Marionette	INFO	Listening on port 53784
+1601986580776	Marionette	DEBUG	Marionette is listening
