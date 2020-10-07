@@ -15,8 +15,7 @@ lOginTestWithExcel using    ${username}  ${password}   ${doctorname}  ${Email_ID
 
 *** Keywords ***
 Invalid Login
-    [Arguments]   ${username}   ${password}
-#    ${doctorname}  ${Email_ID}  ${Registration-No}  ${Phone_No}   ${Fees}  ${Languages}  ${Employee_ID}  ${PrimaryQualification}   ${Medical_School}  ${Residency}  ${GraduationYear}  ${doctorPassword}
+    [Arguments]   ${username}   ${password}    ${doctorname}  ${Email_ID}  ${Registration-No}  ${Phone_No}   ${Fees}  ${Languages}  ${Employee_ID}  ${PrimaryQualification}   ${Medical_School}  ${Residency}  ${GraduationYear}  ${doctorPassword}
 
     Input Username  ${username}
     sleep  2s
